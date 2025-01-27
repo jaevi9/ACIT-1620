@@ -1,0 +1,42 @@
+
+body {
+    background-color:lavender;
+}
+
+h1 {
+    font-family:cursive;
+    line-height: 2;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+    background-color:powderblue;
+}
+header {
+    background-color:cornsilk;
+    color: #ffffff;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 1rem;
+}
+h1 {
+    margin-bottom: 0;
+}
+section {
+    background-color:cornsilk;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+h2 {
+    color:black;
+}
+.skill {
+    background-color: #e6e6e6;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 0.9em;
+}

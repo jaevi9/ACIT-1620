@@ -1,0 +1,47 @@
+@media screen and (min-device-width: 481px) {
+  #gaurantee {
+    margin-right: 250px;
+  }
+}
+@media screen and (max-device-width: 480px) {
+  #gaurantee {
+    margin-right: 30px;
+  }
+}
+@media print {
+  body (
+    font-family: 'Times New Roman', Times, serif;
+  ) 
+}
+
+
+
+body {
+  font-size: small;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h2 {
+  color: #007e7e;
+}
+
+h1 {
+  font-size: 150%;
+}
+
+#gaurantee {
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  background-color: #a7cece;
+  padding: 25px;
+  padding-left: 80px;
+  margin: 30px;
+  margin-right: 250px;
+  background-image: url(images/background.gif);
+  backface-visibility: no-repeat;
+  background-position: top left;
+  border-style: dashed;
+  border-width: thick;
+  border-color: white;
+}
